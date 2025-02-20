@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.header{
+    color: white;
+    background-color: #1f2937;
+}
+
+
+.top-header {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+.title{
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #f9faf8;
+}
+
+.supporting-text{
+    font-size: 18px;
+    color:#E5E7EB;
+}
+
+.body-header{
+    display: flex;
+}
+
+.body-header-right{
+    max-height: 200px;
+}
